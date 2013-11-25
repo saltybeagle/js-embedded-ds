@@ -640,7 +640,7 @@ function IdPSelectUI() {
        IdP buttons)
 
        <div id=prefix+"PreferredIdPTile">
-          <div> [see comprosePreferredIdPButton </div>
+          <div> [see composePreferredIdPButton </div>
           [repeated]
        </div>
       
